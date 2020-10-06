@@ -33,37 +33,71 @@ nav ul li a: hover {
 	padding-bottom: 12px;
 }
 .contenedor{
-	height: 1000px;
+	height: 300px;
 	width: 1200px;
 	overflow: hidden;
 	/*text-align: center;*/
 }
 
 .presentacion{
-	height: 1200px;
+	height: 300px;
 	width: 600px;
 	float: left;
 }
 
 .articulo{
-	height: 800px;
+	height: 300px;
 	width: 600px;
 	font-family: Arial;
 	font-size: 12px;
 	clear: both;
 	line-height: 150%;
-	padding-left: 10px; 
+	pading-left: 10px; 
 }
 
 .capture{
-	height: 600px;
+	height: 300px;
 	width: 600px;
 	padding-right: 20px;
 }
 .cap {
-	width: 400px;
+	width: 500px;
 	height: 250px;
 	background-image: url(https://www.sociedadcirugiaocular.com/images/img-coronavirus-covid19.jpg);
 	background-size: 100% 100%;
 	margin: auto; 
+}
+
+.container{
+	height: 300px;
+	width: 1200px;
+	overflow: hidden;
+}
+
+.present{
+	height: 300px;
+	width: 600px;
+	float: left;
+}
+
+.art{
+	height: 300px;
+	width: 600px;
+	font-family: Arial;
+	font-size: 12px;
+	clear: both;
+	line-height: 150%;
+	pading-left: 10px; 
+}
+
+.imagen{
+	height: 300px;
+	width: 600px;
+}
+
+.capt{
+	height: 250px;
+	width: 500px;
+	background-size: 100% 100%;
+	background-image: url(https://www.65ymas.com/uploads/s1/41/61/97/bigstock-lung-virus-infection-and-coron-350084953.jpeg);
 }
