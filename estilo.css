@@ -1,0 +1,69 @@
+header {
+	text-align: left;
+	clear: both;
+	background-color: white;
+	font-family:Arial;
+	font-size: 15px;
+	color: black;
+	line-height: 150%;
+}
+
+nav ul {
+	padding: 0;
+	text-align: left;
+}
+
+nav ul li {
+	display: inline-block;
+}
+
+nav ul li a{
+	font-family: Arial;
+	font-size: 20px;
+	text-decoration: none;
+	float: left;
+	padding: 10px;
+	background-color: #572364;
+	color: #FFF;
+}
+
+nav ul li a: hover {
+	background-color: #2586d7;
+	margin-top: -2px;
+	padding-bottom: 12px;
+}
+.contenedor{
+	height: 1000px;
+	width: 1200px;
+	overflow: hidden;
+	/*text-align: center;*/
+}
+
+.presentacion{
+	height: 1200px;
+	width: 600px;
+	float: left;
+}
+
+.articulo{
+	height: 800px;
+	width: 600px;
+	font-family: Arial;
+	font-size: 12px;
+	clear: both;
+	line-height: 150%;
+	padding-left: 10px; 
+}
+
+.capture{
+	height: 600px;
+	width: 600px;
+	padding-right: 20px;
+}
+.cap {
+	width: 400px;
+	height: 250px;
+	background-image: url(https://www.sociedadcirugiaocular.com/images/img-coronavirus-covid19.jpg);
+	background-size: 100% 100%;
+	margin: auto; 
+}
